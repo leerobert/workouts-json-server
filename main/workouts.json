@@ -1,79 +1,81 @@
-[
-    {
-        "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e55d",
-        "name": "PPL PUSH",
-        "ppl_type": "Push",
-        "exerciseSets": [
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e522",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e523",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e524",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            }
-        ]
-    },
-    {
-        "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e22d",
-        "name": "PPL PUSH",
-        "ppl_type": "Push",
-        "exerciseSets": [
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e522",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e523",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e524",
-                "order": 1,
-                "name": "Bench Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e532",
-                "order": 2,
-                "name": "Incline DB Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e533",
-                "order": 2,
-                "name": "Incline DB Press",
-                "reps": 10,
-                "weight": 135
-            },
-            {
-                "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e534",
-                "order": 2,
-                "name": "Incline DB Press",
-                "reps": 10,
-                "weight": 135
-            }
-        ]
-    }
-]
+{
+    "workouts": [
+        {
+            "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e55d",
+            "name": "PPL PUSH",
+            "ppl_type": "Push",
+            "exerciseSets": [
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e522",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e523",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e524",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                }
+            ]
+        },
+        {
+            "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e22d",
+            "name": "PPL PUSH",
+            "ppl_type": "Push",
+            "exerciseSets": [
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e522",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e523",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e524",
+                    "order": 1,
+                    "name": "Bench Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e532",
+                    "order": 2,
+                    "name": "Incline DB Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e533",
+                    "order": 2,
+                    "name": "Incline DB Press",
+                    "reps": 10,
+                    "weight": 135
+                },
+                {
+                    "id": "e0dc668b-1cc4-493a-ace7-5f13c7f7e534",
+                    "order": 2,
+                    "name": "Incline DB Press",
+                    "reps": 10,
+                    "weight": 135
+                }
+            ]
+        }
+    ]
+}
